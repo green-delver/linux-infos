@@ -1,8 +1,7 @@
-```
+#Gnome installieren
 sudo apt install gnome-session
-```
 
-```
+#Gnome-Startbildschirm auswählen
 sudo update-alternatives --config gdm3.css
 
 Es gibt 2 Auswahlmöglichkeiten für die Alternative gdm3.css (welche /usr/share/gnome-shell/theme/gdm3.css bereitstellen).
@@ -15,4 +14,3 @@ Es gibt 2 Auswahlmöglichkeiten für die Alternative gdm3.css (welche /usr/share
 
 Drücken Sie die Eingabetaste, um die aktuelle Wahl[*] beizubehalten,
 oder geben Sie die Auswahlnummer ein: 1
-```
