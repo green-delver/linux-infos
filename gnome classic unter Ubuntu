@@ -1,0 +1,18 @@
+```
+sudo apt install gnome-session
+```
+
+```
+sudo update-alternatives --config gdm3.css
+
+Es gibt 2 Auswahlmöglichkeiten für die Alternative gdm3.css (welche /usr/share/gnome-shell/theme/gdm3.css bereitstellen).
+
+  Auswahl      Pfad                                          Priorität Status
+------------------------------------------------------------
+  0            /usr/share/gnome-shell/theme/ubuntu.css        10        automatischer Modus
+* 1            /usr/share/gnome-shell/theme/gnome-shell.css   5         manueller Modus
+  2            /usr/share/gnome-shell/theme/ubuntu.css        10        manueller Modus
+
+Drücken Sie die Eingabetaste, um die aktuelle Wahl[*] beizubehalten,
+oder geben Sie die Auswahlnummer ein: 1
+```
